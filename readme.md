@@ -36,6 +36,13 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashjena9208&" alt="akashjena9208" /></p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akashjena9208&theme=dark&exclude_days=Sun%2CMon%2CTue)](https://git.io/streak-stats)
+
+
 ### Expected Output
 
 ![output image](./output/aa-1.png)
