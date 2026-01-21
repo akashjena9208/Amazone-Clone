@@ -1,6 +1,6 @@
 ## Amazon Clone (HTML & CSS)
 
-This project is a simple, static clone of the Amazon e-commerce platform, built using only HTML and CSS. It showcases the visual design and layout of an online shopping website, replicating the look and feel of Amazon's homepage and product pages.
+This project is a simple, static clone of the Amazon e-commerce platform, built using only HTML and CSS. It showcases the visual design and layout of an online shopping website, replicating the look and feel of Amazon's homepage and product pages..
 
 
 ## Tech Used( First Project)
